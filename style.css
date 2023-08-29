@@ -11,9 +11,18 @@
     padding-top:50px;
 }
 
+
+
 .customBtn{
     background-color: #175d88;
-    color: rgb(255,255,255)
+    color: rgb(255,255,255);
+    font-size: 18px;
+}
+
+.signIn{
+    color: black;
+    border-bottom: 3px solid #1d71a5;
+    font-size: 18px;
 }
 
 
@@ -24,4 +33,8 @@
     cursor: pointer;
     background-color: #175d88;
     color: white;
+}
+
+.signIn:hover {
+    cursor: pointer;
 }
