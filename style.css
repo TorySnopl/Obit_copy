@@ -1,0 +1,27 @@
+.text-custom{
+    font-family: "unify sans bold";
+}
+.nav-link{
+    opacity: 0.8;
+    font-size: 18.5px;
+}
+
+.customBg{
+    background-color: #1d71a5;
+    padding-top:50px;
+}
+
+.customBtn{
+    background-color: #175d88;
+    color: rgb(255,255,255)
+}
+
+
+
+/* Pseudo Elements*/
+
+.customBtn:hover{
+    cursor: pointer;
+    background-color: #175d88;
+    color: white;
+}
