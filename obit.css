@@ -1,0 +1,51 @@
+.text-custom{
+    font-family: "unify sans bold";
+}
+.nav-link{
+    opacity: 0.8;
+    font-size: 18.5px;
+}
+
+.hero{
+    background-color: #1d71a5;
+    padding: 10px;
+    color: white;
+}
+
+.lifeStory{
+font-family: sans-serif;
+font-size: 18px;
+letter-spacing: 3px ;
+color: white;
+text-decoration: none;
+}
+
+.memory{
+font-family: sans-serif;
+font-size: 18px;
+letter-spacing: 3px ;
+color: white;
+text-decoration: none;
+}
+
+.name{
+    text-align: center;
+    font-family: serif;
+    font-size: 70px;
+    font-weight: 600;
+    margin-right: 06%;
+}
+
+
+
+
+.lifeStory:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.memory:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
