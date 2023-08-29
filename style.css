@@ -25,6 +25,44 @@
     font-size: 18px;
 }
 
+.customDrp{
+    font-family: "unify sans";
+}
+
+.obits{
+margin-left: 1%;
+}
+
+.dropLabel{
+    font-family: serif;
+    font-size: 26px;
+    font-style: italic;
+    opacity: 0.8;
+}
+
+.secondDrp{
+    border: 1px solid grey;
+    background-color: rgb(241, 241, 241);
+    font-family: "unify sans";
+    font-size: 18px;
+    
+}
+
+.display {
+    font-family: serif;
+    font-size: 26px;
+    font-style: italic;
+    opacity: 0.8;
+    margin-top: 5px;
+   
+}
+
+.topDate{
+    margin-top: 40px;
+    margin-left: 12px;
+    color: #1d71a5;
+    font-size: 18px;
+}
 
 
 /* Pseudo Elements*/
