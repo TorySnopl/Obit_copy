@@ -1,0 +1,85 @@
+.text-custom{
+    font-family: "unify sans bold";
+}
+.nav-link{
+    opacity: 0.8;
+    font-size: 18.5px;
+}
+
+.hero{
+    background-color: #1d71a5;
+    padding: 10px;
+    color: white;
+}
+
+.lifeStory{
+font-family: sans-serif;
+font-size: 18px;
+letter-spacing: 3px ;
+color: white;
+text-decoration: none;
+}
+
+.memory{
+font-family: sans-serif;
+font-size: 18px;
+letter-spacing: 3px ;
+color: white;
+text-decoration: none;
+}
+
+.name{
+    text-align: center;
+    font-family: serif;
+    font-size: 70px;
+    font-weight: 600;
+    margin-right: 06%;
+}
+
+.rName{
+    margin-top: 50px;
+    text-align: center;
+    font-size: 50px;
+    font-family: serif;
+    font-style: italic;
+    margin-right: 06%;
+}
+
+.descrip{
+    text-align: center;
+    font-family: serif;
+    font-size: 26px;
+    margin-right: 6%;
+}
+
+.invite{
+    text-align: center;
+    margin-right: 6%;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.symbols{
+    text-align: center;
+    letter-spacing: 1em;
+    font-size: 24px;
+    margin-right: 6%;
+}
+
+
+
+
+
+
+.lifeStory:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.memory:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+
