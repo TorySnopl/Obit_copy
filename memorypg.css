@@ -67,7 +67,27 @@ text-decoration: none;
     margin-right: 6%;
 }
 
+.topic {
+    font-family: "unify sans bold";
+    font-size: 20px;
+    border: 3px solid #1d71a5;
+    text-align: center;
+    margin-right: 40px;
+    padding: 10px;
+}
 
+.card{
+    margin-top: 50px;
+    margin-left: 25%;
+    margin-right: 27%;
+    text-align: center;
+}
+
+.card-header{
+    font-family: "unify sans bold";
+    font-size: 20px;
+    background-color: #a8cee6;
+}
 
 
 
@@ -80,6 +100,11 @@ text-decoration: none;
 .memory:hover{
     cursor: pointer;
     text-decoration: underline;
+}
+
+.topic:hover{
+    cursor: pointer;
+    box-shadow: 5px 3px 3px grey ;
 }
 
 
